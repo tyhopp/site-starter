@@ -12,6 +12,7 @@ A simple set of `index.html`, `styles.css`, and `scripts.js` files all linked to
 	- Run `python -V` to find out what Python version you have. If you don't have Python, [download it here](https://www.python.org/downloads/).
 	- If you have Python version 2+, run `python -m SimpleHTTPServer`. 
 	- If you have Python version 3+, run `python -m http.server`.
+4. Open your browser and type `localhost:8000` in your address bar. You should be live!
 
 ### Why?
 
