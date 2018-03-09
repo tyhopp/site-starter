@@ -1,10 +1,10 @@
 # Site Starter
 
-A tiny, tiny site starter kit. 
+A tiny, tiny site starter kit.
 
 ## What is this?
 
-A simple set of `index.html`, `styles.css`, and `scripts.js` files all linked together, without anything else added.
+One HTML, CSS and Javascript file all linked together.
 
 ## Why?
 
