@@ -10,7 +10,7 @@ One HTML, CSS and Javascript file all linked together.
 
 Every time I want to test something in the browser I have the following three options:
 
-- Open CodePen or JSFiddle and constantly have to resize the windows as I write more and more code. 
+- Open [CodePen](https://codepen.io/) or [JSFiddle](https://jsfiddle.net/), but there's no asset uploading and the small panels are hard to work with as I write more code. 
 - Google "HTML Boilerplate" only to find giant boilerplate templates, each with their own set of opinionated things included. 
 - Create the files from scratch and fill in the basic elements. 
 
