@@ -27,3 +27,9 @@ I almost always choose the third. This kit does that for you, just follow the st
 4. Open your browser and type `localhost:8000` in your address bar. You should be live!
 5. Now you can open the files in a text editor, such as [Sublime Text](https://www.sublimetext.com/) or [VSCode](https://code.visualstudio.com/) and write your HTML, CSS & JS. Just refresh your `localhost` site with CMD/CTRL + R, and your changes will show up instantaneously. Happy coding! 🙌
 
+## License
+
+MIT License
+
+Copyright (c) 2018 Ty Hopp
+
